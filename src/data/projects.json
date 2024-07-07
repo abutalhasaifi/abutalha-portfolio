@@ -1,0 +1,34 @@
+[
+  {
+    "title": "QUIZ GAME",
+    "imageSrc": "projects/project1.png",
+    "description": "Create a Platform that enables user to create and take Quizzes. User can input questions, multiple-choice answers, and correct answers to build a Quiz. Other users can then take the quiz and receive immediate feedback of their scores.",
+    "skills": ["React", "JavaScript", "CSS", "HTML"],
+    "demo": "https://quiz-app-abutalha.netlify.app/",
+    "source": "https://github.com/abutalhasaifi/Quiz-App-Game"
+  },
+  {
+    "title": "TO-DO WEBSITE",
+    "imageSrc": "projects/project2.png",
+    "description": "Facilitates users in easily adding, updating, and deleting tasks, providing a convenient feature for efficient task management, resulting in a 25% increase in productivity.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://abutalha-todoapp.netlify.app/",
+    "source": "https://github.com/abutalhasaifi?tab=repositories"
+  },
+  {
+    "title": "SNAKE GAME 2.0",
+    "imageSrc": "projects/project3.png",
+    "description": "Implemented an engaging Snake Game utilizing HTML5, CSS3, and JavaScript. Enhanced gameplay with immersive sound effects, including audio cues for arrow key movements, game over alerts, and satisfying chimes upon food consumption by the snake.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://abutalhasaifi.github.io/SnakeGame2.0/",
+    "source": "https://github.com/abutalhasaifi/SnakeGame2.0"
+  },
+  {
+    "title": "NEWS WEBSITE",
+    "imageSrc": "projects/project.png",
+    "description": "Created a news website empowering users to personalize their news consumption. Incorporated a user-friendly search feature enabling users to input topics of interest such as Finance, IPL, Science, Politics, and more.",
+    "skills": ["HTML", "CSS", "JavaScript", "API"],
+    "demo": "https://github.com/abutalhasaifi/NewsWebsite",
+    "source": "https://github.com/abutalhasaifi/NewsWebsite"
+  }
+]
